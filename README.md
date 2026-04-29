@@ -1,4 +1,4 @@
-# Robot Automation and Vision System (ELEC3-NERV)
+# Robot Automation and Vision System
 
 This project is an autonomous robot system designed to find sponges using computer vision, navigate toward them, and pick them up with a robotic arm. Once a sponge is secured, the robot delivers it to a designated ArUco marker (ID 1).
 
